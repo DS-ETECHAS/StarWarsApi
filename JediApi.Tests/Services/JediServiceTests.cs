@@ -1,5 +1,4 @@
-﻿using JediApi.Models;
-using JediApi.Repositories;
+﻿using JediApi.Repositories;
 using JediApi.Services;
 using Moq;
 

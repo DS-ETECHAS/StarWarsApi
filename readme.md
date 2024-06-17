@@ -3,6 +3,8 @@
 Esse é um projeto utilizando testes unitários e Star Wars.
 
 
+**As intruções de como realizar a avaliação está em** [instructions.md](https://github.com/DS-ETECHAS/StarWarsApi/blob/main/instructions.md)
+
 ## Tecnologias utilizadas
 - C# 17
 - Asp net core 8.0
